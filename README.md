@@ -1,1 +1,1 @@
-# my_rss
+list my rss
